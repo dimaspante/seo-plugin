@@ -5,8 +5,9 @@
  * This plugin was made to work like a
  * - very - simpler version of WP Yoast.
  * 
- * @version  0.5.1
- * @author  Dimas Pante <dimas@pante.com.br>
+ * @version  0.5.2
+ * @package  SEO Plugin
+ * @author   Dimas Pante <dimas@pante.com.br>
  */
 header('Cache-Control: private, max-age=1');
 header('Cache-Control: no-cache');

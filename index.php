@@ -1,5 +1,16 @@
 <?php
 /**
+ * SEO "Yoast alike"
+ * 
+ * This plugin was made to work like a
+ * - very - simpler version of WP Yoast.
+ * 
+ * @version  0.5.2
+ * @package  SEO Plugin
+ * @author   Dimas Pante <dimas@pante.com.br>
+ */
+
+ /** 
  * Accepted languages:
  *  - Brazilian Portuguese <pt-br> (default)
  *  - English <en>
